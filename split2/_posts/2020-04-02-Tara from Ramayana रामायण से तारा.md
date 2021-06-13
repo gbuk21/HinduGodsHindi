@@ -134,3 +134,5 @@
 ३४) पंचकन्याएँ कौन हैं?
 
 अहल्या, द्रौपदी, कुंती, तारा और मंदोदरी
+
+[Next]({{ site.baseurl }}{% link  split2/_posts/2020-04-02-Mandodari from Ramayana रामायण से मंडोडारी.md %})
